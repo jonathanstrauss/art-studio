@@ -1,0 +1,73 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Jon Strauss Studio",
+    "description": "",
+    "home_page_url": "https://jonathanstrauss.github.io/art-studio",
+    "feed_url": "https://jonathanstrauss.github.io/art-studio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jon"
+    },
+    "items": [
+        {
+            "id": "https://jonathanstrauss.github.io/art-studio/designated-regions-and-unfounded-claims.html",
+            "url": "https://jonathanstrauss.github.io/art-studio/designated-regions-and-unfounded-claims.html",
+            "title": "Designated Regions and Unanticipated Side Effects",
+            "summary": "Not a Great Dancer, 2019Now, C'mon, That's Not What I Meant, 2020 ",
+            "content_html": "<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://jonathanstrauss.github.io/art-studio/media/posts/4//IMG_5671.JPG\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://jonathanstrauss.github.io/art-studio/media/posts/4//responsive/IMG_5671-xs.JPG 300w ,https://jonathanstrauss.github.io/art-studio/media/posts/4//responsive/IMG_5671-sm.JPG 480w ,https://jonathanstrauss.github.io/art-studio/media/posts/4//responsive/IMG_5671-md.JPG 768w ,https://jonathanstrauss.github.io/art-studio/media/posts/4//responsive/IMG_5671-lg.JPG 1024w\"  alt=\"\" width=\"5000\" height=\"3317\">\n<figcaption >Not a Great Dancer, 2019</figcaption>\n</figure>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://jonathanstrauss.github.io/art-studio/media/posts/4/IMG_5660.JPG\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://jonathanstrauss.github.io/art-studio/media/posts/4/responsive/IMG_5660-xs.JPG 300w ,https://jonathanstrauss.github.io/art-studio/media/posts/4/responsive/IMG_5660-sm.JPG 480w ,https://jonathanstrauss.github.io/art-studio/media/posts/4/responsive/IMG_5660-md.JPG 768w ,https://jonathanstrauss.github.io/art-studio/media/posts/4/responsive/IMG_5660-lg.JPG 1024w\"  alt=\"\" width=\"2966\" height=\"3701\">\n<figcaption >Now, C'mon, That's Not What I Meant, 2020</figcaption>\n</figure>\n<p> </p>",
+            "image": "https://jonathanstrauss.github.io/art-studio/media/posts/4/IMG_5669.JPG",
+            "author": {
+                "name": "Jon"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-06T11:09:30+08:00",
+            "date_modified": "2021-01-06T18:36:24+08:00"
+        },
+        {
+            "id": "https://jonathanstrauss.github.io/art-studio/forms-on-fields.html",
+            "url": "https://jonathanstrauss.github.io/art-studio/forms-on-fields.html",
+            "title": "We Saw It Coming, Didn&#x27;t We?",
+            "summary": "Got What it Takes, 2020I Won't Say Anything If You Won't, 2020&hellip;",
+            "content_html": "<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://jonathanstrauss.github.io/art-studio/media/posts/3//IMG_5678.JPG\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://jonathanstrauss.github.io/art-studio/media/posts/3//responsive/IMG_5678-xs.JPG 300w ,https://jonathanstrauss.github.io/art-studio/media/posts/3//responsive/IMG_5678-sm.JPG 480w ,https://jonathanstrauss.github.io/art-studio/media/posts/3//responsive/IMG_5678-md.JPG 768w ,https://jonathanstrauss.github.io/art-studio/media/posts/3//responsive/IMG_5678-lg.JPG 1024w\"  alt=\"\" width=\"3421\" height=\"3391\">\n<figcaption >Got What it Takes, 2020</figcaption>\n</figure>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://jonathanstrauss.github.io/art-studio/media/posts/3/IMG_5658.JPG\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://jonathanstrauss.github.io/art-studio/media/posts/3/responsive/IMG_5658-xs.JPG 300w ,https://jonathanstrauss.github.io/art-studio/media/posts/3/responsive/IMG_5658-sm.JPG 480w ,https://jonathanstrauss.github.io/art-studio/media/posts/3/responsive/IMG_5658-md.JPG 768w ,https://jonathanstrauss.github.io/art-studio/media/posts/3/responsive/IMG_5658-lg.JPG 1024w\"  alt=\"\" width=\"4215\" height=\"3374\">\n<figcaption >I Won't Say Anything If You Won't, 2020</figcaption>\n</figure>\n<p> </p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://jonathanstrauss.github.io/art-studio/media/posts/3/IMG_5663.JPG\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://jonathanstrauss.github.io/art-studio/media/posts/3/responsive/IMG_5663-xs.JPG 300w ,https://jonathanstrauss.github.io/art-studio/media/posts/3/responsive/IMG_5663-sm.JPG 480w ,https://jonathanstrauss.github.io/art-studio/media/posts/3/responsive/IMG_5663-md.JPG 768w ,https://jonathanstrauss.github.io/art-studio/media/posts/3/responsive/IMG_5663-lg.JPG 1024w\"  alt=\"\" width=\"3351\" height=\"4325\">\n<figcaption >Yeah, It Gets Under My Skin, Too, 2019</figcaption>\n</figure>\n<p> </p>",
+            "image": "https://jonathanstrauss.github.io/art-studio/media/posts/3/IMG_5686-2.JPG",
+            "author": {
+                "name": "Jon"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-06T10:57:19+08:00",
+            "date_modified": "2021-01-06T12:06:49+08:00"
+        },
+        {
+            "id": "https://jonathanstrauss.github.io/art-studio/chinese-brush-abstracts.html",
+            "url": "https://jonathanstrauss.github.io/art-studio/chinese-brush-abstracts.html",
+            "title": "Jus&#x27; Gonna&#x27; Freshen Up My Face a Sec",
+            "summary": "Yunnan Meditations #10, 2020Yunnan Meditations #5, 2020 ",
+            "content_html": "<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://jonathanstrauss.github.io/art-studio/media/posts/2/IMG_5628.JPG\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://jonathanstrauss.github.io/art-studio/media/posts/2/responsive/IMG_5628-xs.JPG 300w ,https://jonathanstrauss.github.io/art-studio/media/posts/2/responsive/IMG_5628-sm.JPG 480w ,https://jonathanstrauss.github.io/art-studio/media/posts/2/responsive/IMG_5628-md.JPG 768w ,https://jonathanstrauss.github.io/art-studio/media/posts/2/responsive/IMG_5628-lg.JPG 1024w\"  alt=\"\" width=\"3398\" height=\"3488\">\n<figcaption >Yunnan Meditations #10, 2020</figcaption>\n</figure>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://jonathanstrauss.github.io/art-studio/media/posts/2/IMG_5635.JPG\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://jonathanstrauss.github.io/art-studio/media/posts/2/responsive/IMG_5635-xs.JPG 300w ,https://jonathanstrauss.github.io/art-studio/media/posts/2/responsive/IMG_5635-sm.JPG 480w ,https://jonathanstrauss.github.io/art-studio/media/posts/2/responsive/IMG_5635-md.JPG 768w ,https://jonathanstrauss.github.io/art-studio/media/posts/2/responsive/IMG_5635-lg.JPG 1024w\"  alt=\"\" width=\"3404\" height=\"3442\">\n<figcaption >Yunnan Meditations #5, 2020</figcaption>\n</figure>\n<p> </p>",
+            "image": "https://jonathanstrauss.github.io/art-studio/media/posts/2/IMG_5633.JPG",
+            "author": {
+                "name": "Jon"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-06T10:37:47+08:00",
+            "date_modified": "2021-01-06T12:10:44+08:00"
+        },
+        {
+            "id": "https://jonathanstrauss.github.io/art-studio/wuhan-sketchbook-series.html",
+            "url": "https://jonathanstrauss.github.io/art-studio/wuhan-sketchbook-series.html",
+            "title": "Rationality and Incredulity",
+            "summary": "Sketchbook Series #26, 2012Sketchbook Series #11, 2012Sketchbook Series #19, 2012 ",
+            "content_html": "<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://jonathanstrauss.github.io/art-studio/media/posts/1/IMG_5691.JPG\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://jonathanstrauss.github.io/art-studio/media/posts/1/responsive/IMG_5691-xs.JPG 300w ,https://jonathanstrauss.github.io/art-studio/media/posts/1/responsive/IMG_5691-sm.JPG 480w ,https://jonathanstrauss.github.io/art-studio/media/posts/1/responsive/IMG_5691-md.JPG 768w ,https://jonathanstrauss.github.io/art-studio/media/posts/1/responsive/IMG_5691-lg.JPG 1024w\"  alt=\"\" width=\"4208\" height=\"3140\">\n<figcaption >Sketchbook Series #26, 2012</figcaption>\n</figure>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://jonathanstrauss.github.io/art-studio/media/posts/1/IMG_5665-2.JPG\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://jonathanstrauss.github.io/art-studio/media/posts/1/responsive/IMG_5665-2-xs.JPG 300w ,https://jonathanstrauss.github.io/art-studio/media/posts/1/responsive/IMG_5665-2-sm.JPG 480w ,https://jonathanstrauss.github.io/art-studio/media/posts/1/responsive/IMG_5665-2-md.JPG 768w ,https://jonathanstrauss.github.io/art-studio/media/posts/1/responsive/IMG_5665-2-lg.JPG 1024w\"  alt=\"\" width=\"4077\" height=\"2861\">\n<figcaption >Sketchbook Series #11, 2012</figcaption>\n</figure>\n<figure class=\"post__image post__image--center\" ><img loading=\"lazy\" src=\"https://jonathanstrauss.github.io/art-studio/media/posts/1/IMG_5674.JPG\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://jonathanstrauss.github.io/art-studio/media/posts/1/responsive/IMG_5674-xs.JPG 300w ,https://jonathanstrauss.github.io/art-studio/media/posts/1/responsive/IMG_5674-sm.JPG 480w ,https://jonathanstrauss.github.io/art-studio/media/posts/1/responsive/IMG_5674-md.JPG 768w ,https://jonathanstrauss.github.io/art-studio/media/posts/1/responsive/IMG_5674-lg.JPG 1024w\"  alt=\"\" width=\"552\" height=\"706\">\n<figcaption >Sketchbook Series #19, 2012</figcaption>\n</figure>\n<p> </p>",
+            "image": "https://jonathanstrauss.github.io/art-studio/media/posts/1/IMG_5677.JPG",
+            "author": {
+                "name": "Jon"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-05T21:24:13+08:00",
+            "date_modified": "2021-01-06T12:12:56+08:00"
+        }
+    ]
+}

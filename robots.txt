@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jonathanstrauss.github.io/art-studio/sitemap.xml
